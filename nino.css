@@ -4,7 +4,7 @@ body{
 
 }
 header{
-    background-color:  #FFC6EC  ;
+    background-color: #403e4a  ;
     text-align: center;
     padding: 5px;
     border-top-left-radius: 20px;
@@ -12,7 +12,7 @@ header{
  
 }
 main{
-   background-color:#ff007f;
+   background-color:#151232;
     padding: 10px;
     height: 100vh;
     display: auto;
@@ -23,26 +23,26 @@ p{
     margin: 5px;
 }
 .james{
-    background-color: #FF98DB ;
+    background-color:#312c62 ;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 10px;
 }
 .mark{
-    background-color: #FF58C0  ;
+    background-color: #46417c ;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 10px;
 }
 .nino{
-    background-color:  #FF27A5 ;
+    background-color:  #605c8f;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 10px;
     
 }
 footer{
-    background-color: #DF0063 ;
+    background-color: #58566e ;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
     text-align: center;
